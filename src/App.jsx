@@ -4,8 +4,9 @@ import Support from "./Components/Support"
 
 import Enterprise from "./Components/Enterprise"
 import Footer from "./Components/Footer"
-import Features from "./Components/features"
+
 import Navbar from "./Components/header"
+import Features from "./Components/features"
 function App() {
   return (
     <>
