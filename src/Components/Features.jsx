@@ -1,11 +1,11 @@
 import React from 'react'
 
-function features() {
+function Features() {
   return (
-    <div  className='A'>
+    <div>
       <h1>Features</h1>
     </div>
   )
 }
 
-export default features
+export default Features
