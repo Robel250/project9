@@ -1,16 +1,16 @@
 import { Routes,Route } from "react-router-dom"
 import Home from "./Components/Home"
 import Support from "./Components/Support"
-import Header from "./Components/Header"
+
 import Enterprise from "./Components/Enterprise"
 import Footer from "./Components/Footer"
 import Features from "./Components/features"
-
+import Navbar from "./Components/header"
 function App() {
   return (
     <>
 
-  <Header/>
+      <Navbar/>
    
       <Routes>
        
