@@ -5,13 +5,14 @@ import Support from "./Components/Support"
 import Enterprise from "./Components/Enterprise"
 import Footer from "./Components/Footer"
 
-import Navbar from "./Components/header"
-import Features from "./Components/features"
+
+import Features from "./Components/FeaturesComp"
+import Header from "./Components/HeaderComp"
 function App() {
   return (
     <>
 
-      <Navbar/>
+      <Header/>
    
       <Routes>
        
